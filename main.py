@@ -11,7 +11,9 @@ by lunch, and the ducks have formally requested the canal back by
 Friday. It keeps the register of a real broadcast forecast (place
 name, intervals, by lunch), gives the invented city one concrete
 detail of its life (ducks, a canal, a formal request), and bends
-the register at the end instead of dropping it.
+the register at the end instead of dropping it. The smile comes
+from the ducks filing paperwork: civic, patient, and certain the
+canal is theirs by rights.
 """
 
 import os
